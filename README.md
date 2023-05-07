@@ -29,19 +29,6 @@ Here are a few technologies I’ve been working with recently:
 * Strong problem-solving and analytical skills
 * Excellent communication and teamwork abilities
 
-
-
-+--------------------+------------------+-------------+
-|Front-End           |Back-End          |DevOpes      |
-+====================+==================+=============+
-| 1. React           |1. PostgreSQL     |1. Docker
-| 2. JavaScript(ES6+)|2. MySQL          |2. Ansible
-| 3. FrontBasics     |3. SQL            |3. Kubernetes
-| 3. Graph QL        |4. Node.js (Soon) |4. Terraform
-| 4. Gatsby          |                  |5. Git & Github
-| 3. Tailwind (Soon!)|                  | 
-|                    |                  |
-+--------------------+------------------+-------------+
 ---
 # Languages and Tools:
 
@@ -53,7 +40,11 @@ Here are a few technologies I’ve been working with recently:
 <img  alt="HTML5" width="30px" src="icons/html.png">
 <img  alt="CSS3" width="30px" src="icons/css.png">
 <img  alt="JavaScript" width="30px" src="icons/jsicon.png">
+<img  alt="JS" width="30px" src="icons/js.png">
 <img  alt="TypeScript" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
+<img  alt="REACT" width="30px" src="icons/react.png">
+<img  alt="MYSQL" width="30px" src="icons/mysql.png">
+<img  alt="SQL" width="30px" src="icons/sql-server.png">
 <img  alt="Git" width="35px" src="icons/git.png">
 <img  alt="GitHub" width="30px" src="https://img.icons8.com/stickers/100/000000/github.png"/>
 <img  alt="Docker" width="30px" src="icons/docker.png">
