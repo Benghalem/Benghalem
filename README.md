@@ -45,6 +45,7 @@ Here are a few technologies I’ve been working with recently:
 <img  alt="REACT" width="30px" src="icons/react.png">
 <img  alt="MYSQL" width="30px" src="icons/mysql.png">
 <img  alt="SQL" width="30px" src="icons/sql-server.png">
+<img  alt="MONGODB" width="30px" src="icons/mongo.png">
 <img  alt="Git" width="35px" src="icons/git.png">
 <img  alt="GitHub" width="30px" src="https://img.icons8.com/stickers/100/000000/github.png"/>
 <img  alt="Docker" width="30px" src="icons/docker.png">
