@@ -56,7 +56,6 @@ Here are a few technologies I’ve been working with recently:
 <img  alt="Terraform" width="30px" src="icons/terraform.png"/>
 <img  alt="Jenkins" width="35px" src="icons/jenkins.png">
 <img  alt="DevOps" width="35px" src="https://img.icons8.com/color/48/000000/infinity-large.png"/>
-<img  alt="AWS" width="35px" src="icons/aws2.png"/>
 <p>
 
 --- 
