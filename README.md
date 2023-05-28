@@ -24,7 +24,7 @@ Hi there! My name is **Benghalem Aziz**, and I am a **Computer Engineer** with a
 Here are a few technologies I’ve been working with recently:
 
 * Proficient in HTML, CSS, JavaScript, and React
-* Knowledgeable in DevOps tools such as Docker and Kubernetes
+* Knowledgeable in DevOps tools such as Docker & Kubernetes and Cloud (AWS)
 * Familiar with Agile development methodologies
 * Strong problem-solving and analytical skills
 * Excellent communication and teamwork abilities
@@ -56,6 +56,7 @@ Here are a few technologies I’ve been working with recently:
 <img  alt="Terraform" width="30px" src="icons/terraform.png"/>
 <img  alt="Jenkins" width="35px" src="icons/jenkins.png">
 <img  alt="DevOps" width="35px" src="https://img.icons8.com/color/48/000000/infinity-large.png"/>
+<img  alt="AWS" width="35px" src="icons/aws2.png"/>
 <p>
 
 --- 
