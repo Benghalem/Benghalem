@@ -2,7 +2,7 @@
 
 # Hi :wave: I'm Benghalem Aziz
 
-Hi there! My name is **Benghalem Aziz**, and I am a **Computer Engineer** with a passion for **Front-End** Development and **DevOps**. I am always excited to learn about new technologies and strive to keep myself updated with the latest trends in the industry.
+Hi there! My name is **Benghalem Aziz**, and I am a **Computer Engineer** with a passion for **Front-End** Development and **DevOps**. I have a keen interest in exploring new technologies and staying updated with the latest trends in the industry. With a solid technical foundation and a drive for continuous learning, I strive to deliver high-quality solutions that meet both user and business needs.
 
 # :black_joker: About Me:
 
