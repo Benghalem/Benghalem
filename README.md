@@ -41,7 +41,6 @@ Here are a few technologies I’ve been working with recently:
 <img  alt="CSS3" width="30px" src="icons/css.png">
 <img  alt="JavaScript" width="30px" src="icons/jsicon.png">
 <img  alt="JS" width="30px" src="icons/js.png">
-<img  alt="TypeScript" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img  alt="REACT" width="30px" src="icons/react.png">
 <img  alt="MYSQL" width="30px" src="icons/mysql.png">
 <img  alt="SQL" width="30px" src="icons/sql-server.png">
